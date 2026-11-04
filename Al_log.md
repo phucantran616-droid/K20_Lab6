@@ -1,0 +1,68 @@
+# AI LOG – BUỔI 7, TIẾT 3
+
+> Điền vào `[ ... ]`, tích `[x]` vào lựa chọn phù hợp. Ghi đúng việc đã làm; chưa kiểm tra thì ghi “Chưa kiểm tra”. Không cần chép toàn bộ cuộc trò chuyện AI.
+
+## Thông tin sinh viên
+
+- Họ và tên: [ Trần Phúc An ]
+- Mã sinh viên – Lớp: [ 20-02 ]
+- Ngày thực hiện: [30/10/2026]
+- Link repository: [https://phucantran616-droid.github.io/K20_porfolio_CNTT20-02/]
+- URL website: [https://phucantran616-droid.github.io/K20_porfolio_CNTT20-02/]  Website của tôi  [X] Repo luyện của giảng viên
+
+## 1. Nhận định của tôi trước khi hỏi AI
+
+- Trang/thao tác gặp lỗi: [<link rel="stylesheet" href="css/style.css"/>]
+- Mong muốn và hiện tượng thực tế: [ ... ]
+- Dữ kiện đã kiểm tra (cấu trúc tệp, Request URL, Status…): [ ... ]
+- Tôi nghi nguyên nhân là: [ ... ]
+- Vì sao tôi nhận định như vậy: [ ... ]
+
+## 2. Tôi hỏi AI và nhận được gợi ý
+
+- Nguồn: [X] Công cụ AI: [Chat gpt]  [x] Phản hồi mẫu của giảng viên
+- Câu hỏi/prompt tôi đã gửi (hoặc tình huống của phản hồi mẫu):PROMPT MẪU
+Tôi có URL [https://phucantran616-droid.github.io/K20_porfolio_CNTT20-02/], cấu trúc [cây thư mục].
+Network: Request URL [https://phucantran616-droid.github.io/K20_porfolio_CNTT20-02/], Status [304].
+Tôi dự đoán [không có css].
+Hãy nêu giả thuyết, dữ kiện cần kiểm tra và bản sửa tối thiểu.
+Chỉ tư vấn, không sửa tệp. Không kết luận đã sửa thành công.
+
+  [ ... ]
+
+- Gợi ý chính của AI:
+
+  [Kiểm tra đường dẫn CSS trong index.html, mở Developer Tools → Network để xem Request URL và Status của style.css. Kiểm tra sự tồn tại của file trên GitHub Pages. Nếu đường dẫn sai thì chỉnh lại cho đúng.]
+
+## 3. Quyết định của tôi
+
+- [ ] Chấp nhận gợi ý
+- [x] Chỉnh sửa gợi ý rồi áp dụng
+- [ ] Bác bỏ gợi ý
+
+- Tôi quyết định làm gì: [Kiểm tra Network và đường dẫn CSS trước khi quyết định sửa file.]
+- Lý do, dựa trên dữ kiện nào: [Chưa có đủ dữ kiện để xác định nguyên nhân chính xác.]
+
+## 4. Thực hiện và kiểm chứng
+
+- Tệp/vị trí đã sửa (không sửa thì ghi rõ): [ chưa sửa ]
+- Nội dung thay đổi hoặc cách xử lý khác: [Đề xuất kiểm tra đường dẫn CSS và trạng thái tải tài nguyên.]
+- Commit của bản sửa, nếu có: [ ... ]
+- Bản sửa đã deploy: [ ] Có  [ ] Chưa  [ ] Không phát sinh bản sửa
+
+| Nội dung kiểm tra | Trước xử lý | Sau xử lý/thử lại |
+| --- | --- | --- |
+| Request URL và Status của tài nguyên liên quan | [ ... ] | [ ... ] |
+| Giao diện/chức năng trên URL website | [ ... ] | [ ... ] |
+
+- Cách thử lại và kết quả thực tế: [ ... ]
+- Căn cứ để đối chiếu (URL tệp, commit, đường dẫn ảnh chụp hoặc dữ kiện quan sát): [ ... ]
+
+## 5. Kết luận
+
+- [ ] Đã xử lý được  [ ] Xử lý được một phần  [ ] Chưa xử lý được
+- Điều tôi rút ra hoặc việc cần làm tiếp: [ ... ]
+
+---
+
+*Tệp là minh chứng MC2 để nhận định mức đạt của tiết học; không tính điểm MC2 riêng. Nếu có tình huống khác, sao chép mục 1–5 để ghi thêm.*
